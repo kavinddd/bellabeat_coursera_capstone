@@ -1,3 +1,7 @@
+## To watch the report please use this [link](https://nbviewer.org/github/kavinddd/bellabeat_coursera_capstone/blob/main/CapStoneCousera_CaseStudy2_2022_12_26.ipynb)
+Use this [link](https://nbviewer.org/github/kavinddd/bellabeat_coursera_capstone/blob/main/CapStoneCousera_CaseStudy2_2022_12_26.ipynb) to watch the report instead, otherwise, it won't show the charts from plotly.  
+
+
 # About it
 A capstone for the last course of [Google analytics in Coursera](https://www.coursera.org/professional-certificates/google-data-analytics).  
 A scenario that I were a junior data analyst of bella beat company, a high-tech manufacturer of health-focused products , they now want to expand the business to global market. My task is using a given data to find insights for marketing strategies.  
