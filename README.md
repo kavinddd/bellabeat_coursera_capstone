@@ -1,4 +1,4 @@
-## To watch the report please use this [link](https://nbviewer.org/github/kavinddd/bellabeat_coursera_capstone/blob/main/CapStoneCousera_CaseStudy2_2022_12_26.ipynb)
+## To watch the report please [click here](https://nbviewer.org/github/kavinddd/bellabeat_coursera_capstone/blob/main/CapStoneCousera_CaseStudy2_2022_12_26.ipynb)
 Use this [link](https://nbviewer.org/github/kavinddd/bellabeat_coursera_capstone/blob/main/CapStoneCousera_CaseStudy2_2022_12_26.ipynb) to watch the report instead, otherwise, it won't show the charts from plotly.  
 
 
